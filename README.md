@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a second year student pursuing B.Tech. in Computer Science. I am interested in the fields of Data Science & Visualization, ML, AI, Web and App Dev. I love sports, reading books and listening to music. 
 
-## 📈 GitHub Stats 
+# 📈 GitHub Stats 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SwayamMehta10&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamMehta10&theme=tokyonight)](https://github.com/SwayamMehta10/github-readme-stats)
@@ -31,14 +31,9 @@ I am a second year student pursuing B.Tech. in Computer Science. I am interested
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 
 ## Some other things I know
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-<img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
@@ -56,3 +51,9 @@ I am a second year student pursuing B.Tech. in Computer Science. I am interested
 <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whit">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+
+# 📮 You can find me on
+<a href="https://www.instagram.com/swayam_mehta_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/SwayamMehta10"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/swayam-mehta-80b287221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://codepen.io/samht10"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
