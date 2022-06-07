@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a second year student pursuing B.Tech. in Computer Science. I am interested in the fields of Data Science & Visualization, ML, AI, Web and App Dev. I love sports, reading books and listening to music. 
+I am a second year student pursuing B.Tech. in Computer Science. I am interested in the fields of Data Science, ML, AI, and UI/UX. I love sports, reading books and listening to music. 
 
 # 📈 GitHub Stats 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SwayamMehta10&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
