@@ -2,7 +2,7 @@
 I am a second year student pursuing B.Tech. in Computer Science. I am interested in the fields of Data Science, ML, AI, and UI/UX. I love sports, reading books and listening to music. 
 
 # 📈 GitHub Stats 
-[![Swayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwayamMehta10)](https://github.com/SwayamMehta19/github-readme-stats)
+[![Swayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwayamMehta10)](https://github.com/SwayamMehta10/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamMehta10&theme=tokyonight)](https://github.com/SwayamMehta10/github-readme-stats)
 
